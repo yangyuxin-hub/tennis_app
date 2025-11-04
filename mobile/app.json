@@ -22,7 +22,9 @@
       },
       "package": "com.tennis.app"
     },
-    "web": {},
+    "web": {
+      "bundler": "metro"
+    },
     "plugins": [
       "expo-font"
     ]

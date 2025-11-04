@@ -1,6 +1,7 @@
 /**
  * 应用入口文件
  * 注意：react-native-gesture-handler 必须在最顶部导入
+ * Web 平台会自动处理，不需要特殊处理
  */
 import 'react-native-gesture-handler';
 import React from 'react';
