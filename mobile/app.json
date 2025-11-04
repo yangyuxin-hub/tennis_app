@@ -22,6 +22,9 @@
       },
       "package": "com.tennis.app"
     },
-    "web": {}
+    "web": {},
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
