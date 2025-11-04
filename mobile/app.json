@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Tennis Social Platform",
+    "slug": "tennis-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#274125",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tennis.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#274125"
+      },
+      "package": "com.tennis.app"
+    },
+    "web": {}
+  }
+}
